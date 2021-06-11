@@ -1,9 +1,9 @@
 # zsh-autoproxy
 macOS zsh autoproxy
 
-'''bash
+```bash
 git clone https://github.com/deplives/zsh-autoproxy.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autoproxy
-'''
+```
 
 ```
 plugins=(
